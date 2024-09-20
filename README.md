@@ -1,2 +1,2 @@
-# recipe
-a recipe webpage
+# *Recept weboldal*
+## Készítette: **Szabó Zoltán**, **Szász Patrik**, **Nagy Botond**
